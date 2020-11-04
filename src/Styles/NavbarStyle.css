@@ -1,0 +1,60 @@
+.NavbarContainer{
+    background: black;
+    color: white;
+    display: block; 
+}
+.space{
+    color: white;
+    border: solid red 1px;
+    text-align: center;
+}
+.NavbarUser {
+  border-left: solid red 1px;
+
+}
+.NavbarLogo{
+    width: 18em;
+    height: 12em;
+}
+.NavbarList { 
+     color:white;
+    display: flex;
+    align-items: center;  
+    text-align: center;
+
+    justify-content: left;
+    }
+.NavbarList nav {
+    display: flex;
+    color: white; 
+    padding: 2em 0.2em;
+    align-items: left;
+    justify-content:flex-end;
+
+}
+.NavbarList a{
+    padding: 0.7em;
+    color: white;
+    font-size: 1.1em;
+    text-decoration-line: none;
+}
+.NavbarList a:hover{
+color: red;
+font-size: 1.15em;
+}
+
+.sections{ 
+      text-decoration: none;
+    color: white;
+    margin: 0.7em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.2em;
+    
+}
+.NavbarAparts  {  
+    display: flex ;
+    justify-content: space-evenly;
+}
+.page{
+    background:white;
+}

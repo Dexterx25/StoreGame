@@ -1,0 +1,20 @@
+
+.Badge_container{ 
+    visibility: hidden;
+    display: none;
+    border: solid 0.2em white;
+
+}
+.global_Container_Badge{
+    padding-left: 3em;
+    padding-top: 2em;
+}
+.global_Container_Badge{
+    display: flex;
+}
+.Dates_section{
+    padding-right: 10em;
+}
+.imageSection{
+    padding-top:7em;
+}

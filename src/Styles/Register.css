@@ -1,0 +1,28 @@
+
+.RegisterUser{
+    background:white;
+    width: 25em;
+    height: 3em;
+    margin: 1em;
+}
+.buttonSendDates button{
+    background: white;
+ width: 10em;
+ height: 3em;
+}
+.ContainerPageRegister{
+    padding-top:2em;
+    max-width: 100%;
+    min-width: 100%;
+  background: rgb(2, 2, 29);
+    justify-items: center;
+     align-content: center;
+     align-items: center;
+     text-align: center;
+    display: block;
+
+}
+
+.RegisterPageContainer{
+ background:black;  
+}
